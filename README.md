@@ -17,8 +17,6 @@ This project demonstrates the implementation of Linear Regression and Logistic R
   - Lasso
   - ElasticNet
 
-## Datasets
-Synthetic datasets were used for demonstration, located in the `datasets/` folder.
 
 ## Requirements
 - Python 3.x
